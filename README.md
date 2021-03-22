@@ -1,2 +1,2 @@
-# claseUnida
-Toda la clase unidos en el mismo repositorio.
+# miPrimerRepositorio
+Mi primer repositorio en GitHub
